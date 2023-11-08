@@ -1,2 +1,2 @@
 # LandingPage
-A responsive landingpage wich is realted to Halloween using html css ans js
+A responsive landingpage which is related to Halloween using html css ans js.
